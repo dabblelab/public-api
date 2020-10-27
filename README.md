@@ -1,3 +1,1 @@
-The data of this repo has been moved here -> 
-
-Click on the above link to access the same!
+The data of this repo has been moved here -> https://github.com/dabblelab/Dabble_Alexa_with_Sohini/tree/main/Episode%202Click on the above link to access the same!
