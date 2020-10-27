@@ -1,2 +1,3 @@
-# public-api
-This repo consists of .json files which could be used as APIs with URLs.
+The data of this repo has been moved here -> 
+
+Click on the above link to access the same!
